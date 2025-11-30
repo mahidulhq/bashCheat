@@ -1,9 +1,4 @@
 ---
-
-# **Bash Complete Tutorial & Cheat Sheet — Basic → Advanced**
-
-*A practical guide for Linux users, programmers, and cybersecurity learners*
-
 # **Introduction to Bash**
 
 **Bash** (Bourne Again SHell) is a command interpreter for Linux/Unix.
