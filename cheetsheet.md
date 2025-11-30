@@ -1,4 +1,4 @@
----
+
 # **Introduction to Bash**
 
 **Bash** (Bourne Again SHell) is a command interpreter for Linux/Unix.
@@ -22,7 +22,7 @@ Run Bash explicitly:
 /bin/bash
 ```
 
----
+
 
 # **Basic Commands**
 
